@@ -1,0 +1,6 @@
+{
+  "name": "Scale, Play, and Postgres ",
+  "description": "Bench",
+  "image": "heroku/scala",
+  "addons": [ "heroku-postgresql" ]
+}
