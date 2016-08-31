@@ -1,1 +1,1 @@
-web: target/universal/stage/bin/track-scala -Dhttp.port=${PORT}
+web: target/start Web

@@ -1,4 +1,6 @@
-Performance testing Scale, Play, and Postgres inserts
+Performance testing Scala, Spray, and Postgres inserts
 
-`sbt compile stage`
-`heroku local`
+```
+sbt compile stage
+heroku local
+```
